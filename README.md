@@ -1,4 +1,4 @@
-# **Git Assingnments**
+# **Git Assignments**
   **Question 1**
   - I have created an repository named assignments.
   - Cloned it to the local repository.
