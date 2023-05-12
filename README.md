@@ -25,20 +25,20 @@
  
    **Question 4**
    
-  -Created a feature branch. 
-  -Switched it to the new branch. 
-  -opened the file and make some changes to it. 
-  -Added and commit the changes to the new branch. 
-  -Identified the commit that you want to "cherry-pick".
-  -Used  "git cherry-pick" command followed by the commit. 
+  - Created a feature branch. 
+  - Switched it to the new branch. 
+  - opened the file and make some changes to it. 
+  - Added and commit the changes to the new branch. 
+  - Identified the commit that you want to "cherry-pick".
+  - Used  "git cherry-pick" command followed by the commit. 
   
   **Question 5** 
  
-  -Created a feature branch. 
-  -Switched to the new branch. 
-  -Opened the file and make some changes to it. 
-  -Added and commit the changes to the new branch. 
-  -Used the "git revert" command followed by the commit the reference to which you want to revert.
-  -Verified that the revert was successful by using the "git log" command again. 
+  - Created a feature branch. 
+  - Switched to the new branch. 
+  - Opened the file and make some changes to it. 
+  - Added and commit the changes to the new branch. 
+  - Used the "git revert" command followed by the commit the reference to which you want to revert.
+  - Verified that the revert was successful by using the "git log" command again. 
   
  
