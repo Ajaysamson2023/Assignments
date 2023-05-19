@@ -27,9 +27,11 @@ for i in range(5):
     a=int(input("enter A :"))
     b = int(input("enter B :"))
     print(a+b)
+print("--------------------------list of values--------------------------------")
 # Adding List:
 a=[1,2,3,4,5]
 b=[1,2,3]
+print(a+b)
 print(a)
 print(type(a))
 print(a)
